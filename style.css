@@ -2,12 +2,12 @@
    A BETTER HAULING CO. - MASTER STYLESHEET
    ========================================================================== */
 
-/* --- 1. CSS VARIABLES (THEME COLORS & FONTS) --- */
+/* --- 1. CSS VARIABLES (UPDATED COLOR SCHEME) --- */
 :root {
-    --color-dark: #0a0a0a;       /* Deepest black/gray for backgrounds */
-    --color-slate: #1a1a1a;      /* Lighter slate for cards and sections */
-    --color-yellow: #ffcc00;     /* High-vis industrial yellow */
-    --color-white: #f5f5f5;      /* Off-white for readable text */
+    --color-dark: #183331;       /* Deepest navy/slate (mapped from #183331) */
+    --color-slate: #396767;      /* Deep industrial teal (mapped from #396767) */
+    --color-yellow: #FFCC00;     /* High-vis yellow (mapped from #FFCC00) */
+    --color-white: #FFFFFF;      /* Pure white for max readability (mapped from #FFFFFF) */
     
     --font-header: 'Bebas Neue', sans-serif;
     --font-body: 'Barlow', sans-serif;
